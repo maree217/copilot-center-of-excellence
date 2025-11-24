@@ -4,7 +4,7 @@
 
 Welcome to the Copilot Center of Excellence - your complete resource for implementing, securing, and scaling Microsoft Copilot and AI solutions across enterprise organizations.
 
-[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://your-username.github.io/copilot-center-of-excellence)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://maree217.github.io/copilot-center-of-excellence)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -88,12 +88,14 @@ Ready-to-use assets for your organization:
 ---
 
 ### 💻 **[Code Examples & Repos](./examples/)**
-Production-ready code samples:
+Production-ready code samples *(coming soon)*:
 - **Semantic Kernel**: Agent orchestration examples
 - **Copilot Studio**: Custom agent implementations
 - **Power Automate**: Integration flows
 - **Custom Connectors**: API integration patterns
 - **Agent Lightning**: RL-based optimization
+
+*Note: Code examples are under development. Technical implementation guidance is available in the [Technical Modules](./docs/technical-implementation/).*
 
 ---
 
@@ -263,7 +265,7 @@ Looking for expert guidance on your Copilot implementation?
 - 📚 **Team Training**: Custom workshops for your organization
 - 🚀 **Implementation Support**: Hands-on delivery assistance
 
-[**Book a Consultation**](mailto:your-email@domain.com) | [**View Service Catalog**](./docs/services.md)
+[**Book a Consultation**](mailto:ram@aicapabilitybuilder.com) | [**View Service Catalog**](./docs/services.md)
 
 ---
 
