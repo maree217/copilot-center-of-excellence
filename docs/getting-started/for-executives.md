@@ -342,6 +342,8 @@ A: Yes. A 50-user pilot costs ~$40K-60K (including implementation). Low risk way
 
 **Need Expert Guidance?**
 - 📧 Email: ram@aicapabilitybuilder.com
+- 🌐 Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- 💼 LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - 📅 Book 30-min consultation: [Schedule time](mailto:ram@aicapabilitybuilder.com)
 - 🎯 Strategy Sprint: 1-day workshop to build your roadmap
 

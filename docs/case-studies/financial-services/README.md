@@ -768,6 +768,8 @@ This case study demonstrates the full application of the frameworks from our [AI
 
 ### Need Help?
 - 📧 Email: ram@aicapabilitybuilder.com
+- 🌐 Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- 💼 LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - 🗓️ Book a consultation: [Schedule time](mailto:ram@aicapabilitybuilder.com)
 - 📚 Review [Reference Architectures](../../reference-architectures/)
 

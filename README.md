@@ -304,7 +304,7 @@ This work is licensed under the MIT License - see the [LICENSE](LICENSE) file fo
 **Attribution Required**: If you use or reference this material, please cite:
 ```
 Microsoft Copilot Center of Excellence
-https://github.com/your-username/copilot-center-of-excellence
+https://github.com/maree217/copilot-center-of-excellence
 ```
 
 ---
@@ -329,8 +329,8 @@ https://github.com/your-username/copilot-center-of-excellence
 Principal AI Architect | Microsoft AI Specialist
 
 - 📧 Email: ram@aicapabilitybuilder.com
-- 💼 LinkedIn: [Ram Maree](https://linkedin.com/in/rammaree)
-- 🌐 Website: [AI Capability Builder](https://aicapabilitybuilder.com)
+- 💼 LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- 🌐 Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
 
 ---
 

@@ -286,9 +286,10 @@ Need expert guidance for your AI transformation?
 ## Course Feedback
 
 This is a living curriculum. If you have feedback or suggestions:
-- Open an issue in the repository
 - Email: ram@aicapabilitybuilder.com
-- Connect on LinkedIn: [Your Profile](https://linkedin.com/in/rammaree)
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- Open an issue in the repository
 
 ---
 

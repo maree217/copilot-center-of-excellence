@@ -254,8 +254,10 @@ While there's no formal certification for this course, completing all modules de
 ## 📬 Feedback
 
 Questions or suggestions about the modules?
-- Open an issue: [GitHub Issues](https://github.com/maree217/copilot-center-of-excellence/issues)
 - Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- GitHub Issues: [Open an issue](https://github.com/maree217/copilot-center-of-excellence/issues)
 
 ---
 

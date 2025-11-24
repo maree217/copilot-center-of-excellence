@@ -199,6 +199,8 @@ We actively maintain this repository. Check the [main README](../../README.md) f
 - **General**: Email ram@aicapabilitybuilder.com
 - **Technical**: [Open GitHub issue](https://github.com/maree217/copilot-center-of-excellence/issues)
 - **Consulting**: [Book consultation](mailto:ram@aicapabilitybuilder.com)
+- **Website**: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- **LinkedIn**: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 
 ### Found an Error?
 - [Report issue](https://github.com/maree217/copilot-center-of-excellence/issues)

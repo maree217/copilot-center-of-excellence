@@ -327,6 +327,8 @@ Use this checklist when designing your architecture:
 
 Need help designing your architecture?
 - Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - Schedule consultation: [Book time](mailto:ram@aicapabilitybuilder.com)
 - Open discussion: [GitHub Discussions](https://github.com/maree217/copilot-center-of-excellence/discussions)
 
