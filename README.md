@@ -4,7 +4,7 @@
 
 Welcome to the Copilot Center of Excellence - your complete resource for implementing, securing, and scaling Microsoft Copilot and AI solutions across enterprise organizations.
 
-[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://your-username.github.io/copilot-center-of-excellence)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://maree217.github.io/copilot-center-of-excellence)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -88,12 +88,14 @@ Ready-to-use assets for your organization:
 ---
 
 ### 💻 **[Code Examples & Repos](./examples/)**
-Production-ready code samples:
+Production-ready code samples *(coming soon)*:
 - **Semantic Kernel**: Agent orchestration examples
 - **Copilot Studio**: Custom agent implementations
 - **Power Automate**: Integration flows
 - **Custom Connectors**: API integration patterns
 - **Agent Lightning**: RL-based optimization
+
+*Note: Code examples are under development. Technical implementation guidance is available in the [Technical Modules](./docs/technical-implementation/).*
 
 ---
 
@@ -263,7 +265,7 @@ Looking for expert guidance on your Copilot implementation?
 - 📚 **Team Training**: Custom workshops for your organization
 - 🚀 **Implementation Support**: Hands-on delivery assistance
 
-[**Book a Consultation**](mailto:your-email@domain.com) | [**View Service Catalog**](./docs/services.md)
+[**Book a Consultation**](mailto:ram@aicapabilitybuilder.com) | [**View Service Catalog**](./docs/services.md)
 
 ---
 
@@ -326,9 +328,9 @@ https://github.com/your-username/copilot-center-of-excellence
 **AI Capability Builder**
 Principal AI Architect | Microsoft AI Specialist
 
-- 📧 Email: your-email@domain.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [Your Website](https://yourwebsite.com)
+- 📧 Email: ram@aicapabilitybuilder.com
+- 💼 LinkedIn: [Ram Maree](https://linkedin.com/in/rammaree)
+- 🌐 Website: [AI Capability Builder](https://aicapabilitybuilder.com)
 
 ---
 
@@ -338,6 +340,6 @@ Principal AI Architect | Microsoft AI Specialist
 
 **Built with expertise from 100+ enterprise AI implementations**
 
-[Get Started](./docs/getting-started/) · [View Docs](./docs/) · [Book Consultation](mailto:your-email@domain.com)
+[Get Started](./docs/getting-started/) · [View Docs](./docs/) · [Book Consultation](mailto:ram@aicapabilitybuilder.com)
 
 </div>

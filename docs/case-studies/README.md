@@ -252,7 +252,7 @@ Have a successful Copilot implementation to share?
 - Marketing opportunity
 - Help others learn
 
-**Contact:** your-email@domain.com
+**Contact:** ram@aicapabilitybuilder.com
 
 ---
 

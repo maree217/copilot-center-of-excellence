@@ -326,8 +326,8 @@ Use this checklist when designing your architecture:
 ## 📬 Request Architecture Guidance
 
 Need help designing your architecture?
-- Email: your-email@domain.com
-- Schedule consultation: [Book time](mailto:your-email@domain.com)
+- Email: ram@aicapabilitybuilder.com
+- Schedule consultation: [Book time](mailto:ram@aicapabilitybuilder.com)
 - Open discussion: [GitHub Discussions](https://github.com/maree217/copilot-center-of-excellence/discussions)
 
 ---

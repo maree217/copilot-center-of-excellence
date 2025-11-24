@@ -109,10 +109,8 @@ copilot-center-of-excellence/
 Copy the commands GitHub shows you. They'll look like this (replace with YOUR username):
 
 ```bash
-cd /Users/rammaree/projects/copilot-center-of-excellence
-
 # Add GitHub as remote
-git remote add origin https://github.com/YOUR-USERNAME/copilot-center-of-excellence.git
+git remote add origin https://github.com/maree217/copilot-center-of-excellence.git
 
 # Push to GitHub
 git branch -M main
@@ -141,7 +139,7 @@ GitHub Pages will create a professional website for your docs:
    - Folder: `/ (root)`
 4. Click **Save**
 5. Wait 2-3 minutes
-6. Your site will be live at: `https://YOUR-USERNAME.github.io/copilot-center-of-excellence/`
+6. Your site will be live at: `https://maree217.github.io/copilot-center-of-excellence/`
 
 **Optional Enhancement**: Add a custom domain later (e.g., `copilot.yourdomain.com`)
 
@@ -233,7 +231,7 @@ GitHub Pages will create a professional website for your docs:
 4. End with: "We can customize this framework for your organization"
 
 **Scenario 2: Proposal Response**
-> "We don't just consult—we share our complete framework openly. See our [Center of Excellence](https://github.com/YOUR-USERNAME/copilot-center-of-excellence) which includes [list relevant modules]. Your engagement will customize and apply these proven frameworks to your specific context."
+> "We don't just consult—we share our complete framework openly. See our [Center of Excellence](https://github.com/maree217/copilot-center-of-excellence) which includes [list relevant modules]. Your engagement will customize and apply these proven frameworks to your specific context."
 
 **Scenario 3: Thought Leadership**
 - Post README sections as LinkedIn articles
@@ -363,9 +361,6 @@ GitHub Pages will create a professional website for your docs:
 
 ## 📞 Support & Questions
 
-**Repository Location:**
-`/Users/rammaree/projects/copilot-center-of-excellence/`
-
 **Git Status:**
 - ✅ Repository initialized
 - ✅ All files committed
@@ -374,8 +369,7 @@ GitHub Pages will create a professional website for your docs:
 
 **Next Command to Run:**
 ```bash
-cd /Users/rammaree/projects/copilot-center-of-excellence
-git remote add origin https://github.com/YOUR-USERNAME/copilot-center-of-excellence.git
+git remote add origin https://github.com/maree217/copilot-center-of-excellence.git
 git push -u origin main
 ```
 

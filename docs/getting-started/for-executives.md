@@ -341,8 +341,8 @@ A: Yes. A 50-user pilot costs ~$40K-60K (including implementation). Low risk way
 - [Copilot for Microsoft 365 Documentation](https://learn.microsoft.com/en-us/microsoft-365-copilot/)
 
 **Need Expert Guidance?**
-- 📧 Email: your-email@domain.com
-- 📅 Book 30-min consultation: [Schedule time](mailto:your-email@domain.com)
+- 📧 Email: ram@aicapabilitybuilder.com
+- 📅 Book 30-min consultation: [Schedule time](mailto:ram@aicapabilitybuilder.com)
 - 🎯 Strategy Sprint: 1-day workshop to build your roadmap
 
 ---

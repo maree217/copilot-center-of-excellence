@@ -82,7 +82,7 @@ While we build out the code examples, you can reference:
 
 Need a specific example? Let us know:
 - Open an issue: [Request Example](https://github.com/maree217/copilot-center-of-excellence/issues)
-- Email: your-email@domain.com
+- Email: ram@aicapabilitybuilder.com
 
 ---
 

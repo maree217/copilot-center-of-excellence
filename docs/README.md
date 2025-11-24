@@ -167,7 +167,7 @@ Navigate through the learning paths above based on your role and goals.
 
 This is a curated knowledge base for professional consulting use. For suggestions or corrections:
 - Open an issue on the [GitHub repository](https://github.com/maree217/copilot-center-of-excellence)
-- Email: your-email@domain.com
+- Email: ram@aicapabilitybuilder.com
 
 ---
 
