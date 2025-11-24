@@ -392,9 +392,10 @@ Max Latency: 5 seconds
 
 ## 📬 Questions or Feedback?
 
-- Email: your-email@domain.com
+- Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - GitHub: [Open an issue](https://github.com/maree217/copilot-center-of-excellence/issues)
-- Documentation issues: Submit a pull request
 
 ---
 

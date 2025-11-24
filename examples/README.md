@@ -81,8 +81,10 @@ While we build out the code examples, you can reference:
 ## 📬 Request Examples
 
 Need a specific example? Let us know:
-- Open an issue: [Request Example](https://github.com/maree217/copilot-center-of-excellence/issues)
-- Email: your-email@domain.com
+- Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- GitHub: [Request Example](https://github.com/maree217/copilot-center-of-excellence/issues)
 
 ---
 

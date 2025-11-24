@@ -279,16 +279,17 @@ Need expert guidance for your AI transformation?
 - 📚 **Executive Workshop**: Custom training for your leadership team
 - 🚀 **Implementation Support**: Hands-on delivery assistance
 
-[**Book a Consultation**](mailto:your-email@domain.com)
+[**Book a Consultation**](mailto:ram@aicapabilitybuilder.com)
 
 ---
 
 ## Course Feedback
 
 This is a living curriculum. If you have feedback or suggestions:
+- Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - Open an issue in the repository
-- Email: your-email@domain.com
-- Connect on LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -296,6 +297,6 @@ This is a living curriculum. If you have feedback or suggestions:
 
 **Ready to transform your organization with AI?**
 
-[Start Module 1](./01-implementation-framework.md) · [Download Templates](../../templates/) · [Book Consultation](mailto:your-email@domain.com)
+[Start Module 1](./01-implementation-framework.md) · [Download Templates](../../templates/) · [Book Consultation](mailto:ram@aicapabilitybuilder.com)
 
 </div>

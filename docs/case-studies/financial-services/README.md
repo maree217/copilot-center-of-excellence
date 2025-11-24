@@ -767,8 +767,10 @@ This case study demonstrates the full application of the frameworks from our [AI
 - [Readiness Assessment](../../../templates/readiness-assessment.md)
 
 ### Need Help?
-- 📧 Email: your-email@domain.com
-- 🗓️ Book a consultation: [Schedule time](mailto:your-email@domain.com)
+- 📧 Email: ram@aicapabilitybuilder.com
+- 🌐 Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- 💼 LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- 🗓️ Book a consultation: [Schedule time](mailto:ram@aicapabilitybuilder.com)
 - 📚 Review [Reference Architectures](../../reference-architectures/)
 
 ---

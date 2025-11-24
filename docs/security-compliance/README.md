@@ -320,12 +320,14 @@ Technical deep dive into:
 ## 📬 Security Questions?
 
 **For general inquiries:**
-- Email: your-email@domain.com
+- Email: ram@aicapabilitybuilder.com
+- Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
+- LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
 - GitHub: [Open an issue](https://github.com/maree217/copilot-center-of-excellence/issues)
 
 **For security vulnerabilities:**
 - Do NOT open public issues
-- Email privately: your-email@domain.com
+- Email privately: ram@aicapabilitybuilder.com
 - We'll respond within 24 hours
 
 ---

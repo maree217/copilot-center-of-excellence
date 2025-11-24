@@ -302,7 +302,7 @@ This work is licensed under the MIT License - see the [LICENSE](LICENSE) file fo
 **Attribution Required**: If you use or reference this material, please cite:
 ```
 Microsoft Copilot Center of Excellence
-https://github.com/your-username/copilot-center-of-excellence
+https://github.com/maree217/copilot-center-of-excellence
 ```
 
 ---
@@ -326,9 +326,9 @@ https://github.com/your-username/copilot-center-of-excellence
 **AI Capability Builder**
 Principal AI Architect | Microsoft AI Specialist
 
-- 📧 Email: your-email@domain.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [Your Website](https://yourwebsite.com)
+- 📧 Email: ram@aicapabilitybuilder.com
+- 💼 LinkedIn: [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+- 🌐 Website: [aicapabilitybuilder.com](https://aicapabilitybuilder.com)
 
 ---
 
@@ -338,6 +338,6 @@ Principal AI Architect | Microsoft AI Specialist
 
 **Built with expertise from 100+ enterprise AI implementations**
 
-[Get Started](./docs/getting-started/) · [View Docs](./docs/) · [Book Consultation](mailto:your-email@domain.com)
+[Get Started](./docs/getting-started/) · [View Docs](./docs/) · [Book Consultation](mailto:ram@aicapabilitybuilder.com)
 
 </div>
