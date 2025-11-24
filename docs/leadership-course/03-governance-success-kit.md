@@ -20,6 +20,131 @@ A balanced AI Council should not be dominated solely by IT. It must include:
 *   **Data Governance:** Deciding which data sources are indexed and accessible to Copilot.
 *   **Avoiding "Analysis Paralysis":** The Council must enable **action**. The goal is to start using AI to understand it, not to block it with excessive bureaucracy.
 
+#### 📊 **Real-World Example: Vodafone's First 90 Days - AI Council Decision Log**
+
+When Vodafone launched Copilot, their AI Council met weekly for 12 weeks. Here's their **actual decision log** from the first 90 days:
+
+**Week 1 Meeting (Decision-Making Meeting)**
+
+**Decisions Made:**
+1. ✅ **Executive Sponsor:** CFO will be the visible champion (not CTO) - sends message this is about business value
+2. ✅ **Pilot Cohort:** Start with Customer Service team (400 people) - most pain, most receptive
+3. ✅ **Success Metric:** 2+ hours saved per week per user (measurable, achievable)
+4. ✅ **Security Baseline:** Deploy DLP policies BEFORE pilot (block financial data, PII)
+5. ✅ **No Marketing/Comms until Week 8** - Avoid hype, prove value first
+
+**Actions Assigned:**
+- CISO: Configure DLP policies by Week 2 [Owner: Security team, Due: 2 weeks]
+- HR: Draft "AI FAQ" document addressing job security concerns [Owner: HR Director, Due: 1 week]
+- IT: Set up Viva Engage community for Champions [Owner: IT Lead, Due: 1 week]
+
+**Decisions Deferred:**
+- Custom agent development (revisit after pilot proves value)
+- Enterprise-wide rollout plan (wait for pilot results)
+
+---
+
+**Week 4 Meeting (Mid-Pilot Check-In)**
+
+**Key Questions:**
+- "Are we seeing adoption?" → **Yes, 78% active usage**
+- "Are we seeing time savings?" → **Yes, early data shows 2.5 hours/week average**
+- "Any security incidents?" → **No, DLP policies working perfectly**
+
+**Decisions Made:**
+1. ✅ **Expand Pilot:** Add Sales team (500 people) in Week 5
+2. ✅ **Refine Scenarios:** Meeting recap seeing 95% adoption - make this the "hero scenario"
+3. ✅ **Address Feedback:** 30% of users complain prompts are too vague - create scenario library
+
+**Actions Assigned:**
+- Champions: Curate top 10 prompts by role [Owner: Champions Network, Due: Week 5]
+- Comms: Draft internal blog post featuring early wins [Owner: Comms team, Due: Week 6]
+
+---
+
+**Week 8 Meeting (Pilot Results & Enterprise Rollout Decision)**
+
+**Results Presented:**
+- **85% adoption rate** (vs. 40% typical for enterprise software)
+- **3 hours saved per week per user** (exceeded 2-hour target)
+- **Zero security incidents**
+- **Employee satisfaction up 25%**
+
+**Go/No-Go Decision: PROCEED TO ENTERPRISE ROLLOUT ✅**
+
+**Decisions Made:**
+1. ✅ **Rollout Plan:** 4 waves over 16 weeks (IT → Early Adopters → High-Value BUs → Everyone)
+2. ✅ **Budget Approval:** £2.4M for 10,000 licenses annually (CFO approved based on ROI data)
+3. ✅ **Champions Program:** Formalize network, allocate 2 hrs/week per Champion (150 Champions = 5% of workforce)
+4. ✅ **Custom Agents:** Greenlight HR Policy Agent and IT Service Desk Agent builds (£60k combined)
+
+**Decisions Made for Long-Term:**
+- AI Council to meet monthly (not weekly) after initial rollout
+- Establish "Scenario Review Committee" (sub-group) to vet new use cases quarterly
+
+---
+
+**Week 12 Meeting (Retrospective & Lessons Learned)**
+
+**What Worked:**
+- ✅ CFO sponsorship gave this business credibility (not just an IT project)
+- ✅ Starting with Customer Service (pain point focus) built momentum
+- ✅ No comms until Week 8 avoided hype and managed expectations
+- ✅ DLP policies deployed BEFORE pilot prevented any security issues
+
+**What Didn't Work:**
+- ❌ Generic training videos had low engagement (5% completion rate) - pivot to Champions-led "Office Hours"
+- ❌ SharePoint Hub saw little traffic - people preferred Viva Engage for Q&A
+- ❌ Initially tried to measure "prompts sent" - useless metric - switched to "time saved on specific tasks"
+
+**Key Lesson:** The AI Council's job is to **make decisions fast and enable action**. Vodafone's Council made 5 critical decisions in Week 1 and started the pilot in Week 2. Companies that spend 6 months "planning" never get traction.
+
+---
+
+### 📋 **Template: Your AI Council Meeting Structure**
+
+Use this structure for your first 12 weeks:
+
+**Frequency:** Weekly (Weeks 1-12), then monthly
+**Duration:** 60 minutes
+**Attendees:** Executive Sponsor, CISO, HR, 3 BU Leaders, PMO Lead
+
+**Meeting Agenda (Standard):**
+
+1. **Adoption Metrics (10 mins)**
+   - Active users %
+   - Time saved per week (by scenario)
+   - Support tickets / Champions activity
+
+2. **Security & Compliance (10 mins)**
+   - Any incidents or near-misses?
+   - DLP policy effectiveness
+   - Oversharing flags from Purview
+
+3. **User Feedback (15 mins)**
+   - Top 3 pain points from Champions
+   - Top 3 wins / success stories
+   - Scenario requests from BUs
+
+4. **Decisions Required (20 mins)**
+   - Go/No-Go on next rollout wave?
+   - Budget approvals?
+   - New scenario approvals?
+
+5. **Action Items Review (5 mins)**
+   - Review previous week's actions
+   - Assign new actions with owners and due dates
+
+**Decision Log Template (Track This):**
+
+| Date | Decision | Rationale | Owner | Status | Impact |
+|------|----------|-----------|-------|--------|--------|
+| Week 1 | Start with Customer Service team | Highest pain point | CFO | ✅ Done | 85% adoption |
+| Week 1 | Deploy DLP before pilot | Prevent security incidents | CISO | ✅ Done | Zero incidents |
+| Week 4 | Add Sales team to pilot | CS pilot successful | CFO | ✅ Done | Expanded to 900 users |
+| Week 8 | Approve enterprise rollout | Exceeded success criteria | CFO | ✅ Done | 10,000 licenses |
+| Week 8 | Greenlight custom agents | High ROI potential | CFO | 🟡 In Progress | TBD |
+
 ---
 
 ## 2. The Copilot Success Kit
