@@ -1,103 +1,119 @@
 # Reference Architectures
 
-Battle-tested architecture patterns, design templates, and decision frameworks for Microsoft Copilot implementations.
+Battle-tested architecture patterns with interactive diagrams, design templates, and implementation guides for Microsoft Copilot deployments.
+
+---
+
+## 📐 Available Architectures
+
+### 1. [7-Layer Copilot Reference Architecture](./7-layer-architecture.md)
+**The foundational architecture pattern for enterprise AI implementations**
+
+**Covers all 7 layers:**
+1. **User Experience** - Multi-channel interfaces (Teams, Web, Mobile, Voice)
+2. **Orchestration** - Copilot Studio, Semantic Kernel, Power Automate
+3. **Intelligence** - Azure OpenAI, GPT-4, Embedding models
+4. **Data & Knowledge** - SharePoint, Dataverse, Azure AI Search
+5. **Integration** - Microsoft Graph, Custom APIs, Connectors
+6. **Security & Governance** - Entra ID, Purview, DLP, Zero Trust
+7. **Monitoring** - Application Insights, Sentinel, Analytics
+
+**Includes:**
+- ✅ Interactive Mermaid architecture diagram
+- ✅ Layer-by-layer detailed implementation guide
+- ✅ Technology mapping for Microsoft stack
+- ✅ Deployment topologies (small, medium, large)
+- ✅ Security checklist and principles
+- ✅ Performance and cost considerations
+
+**Best for:** Enterprise architects designing comprehensive solutions
+
+[View Full Architecture →](./7-layer-architecture.md)
+
+---
+
+### 2. [Multi-Agent Orchestration Pattern](./multi-agent-orchestration.md)
+**Enterprise-scale agent coordination for complex, multi-domain deployments**
+
+**Patterns covered:**
+- Simple routing (one agent per query)
+- Sequential orchestration (multi-step workflows)
+- Parallel orchestration (concurrent execution)
+- Event-driven orchestration (proactive notifications)
+
+**Components:**
+- Router agent (orchestrator)
+- Specialized domain agents (HR, IT, Finance, Sales)
+- Agent registry and discovery
+- State management across agents
+- Error handling and resilience
+
+**Includes:**
+- ✅ Interactive architecture diagram with agent flows
+- ✅ Implementation patterns with code examples
+- ✅ State management strategies
+- ✅ Performance optimization techniques
+- ✅ Monitoring and debugging guidance
+
+**Best for:** Organizations deploying multiple specialized agents
+
+[View Full Pattern →](./multi-agent-orchestration.md)
+
+---
+
+### 3. [Security Architecture](./security-architecture.md)
+**Zero Trust security framework for enterprise AI deployments**
+
+**Covers 6 security layers:**
+1. **Identity Verification** - MFA, device compliance, location-based access
+2. **Access Control** - RBAC, Just-In-Time access, API permissions
+3. **AI Agent Security** - Prompt filtering, response validation, guardrails
+4. **Data Protection** - DLP policies, encryption, sensitivity labels
+5. **Network Security** - Private endpoints, VNets, firewalls
+6. **Monitoring & Response** - Audit logs, threat detection, incident response
+
+**Compliance frameworks:**
+- GDPR (data privacy)
+- HIPAA (healthcare)
+- SOC 2 (service organization)
+- FINRA/SEC (financial services)
+
+**Includes:**
+- ✅ Zero Trust architecture diagram
+- ✅ Security configuration examples
+- ✅ DLP policy templates
+- ✅ Incident response playbooks
+- ✅ Pre and post-deployment checklists
+
+**Best for:** Security teams and compliance officers
+
+[View Full Architecture →](./security-architecture.md)
 
 ---
 
 ## 🚧 Coming Soon
 
-This section is under active development. Architecture diagrams and detailed patterns will be added soon.
+### 4. Azure AI Foundry Integration Architecture *(in development)*
+**When and how to use Azure AI Foundry with Copilot**
 
----
-
-## 📐 Planned Reference Architectures
-
-### 1. 7-Layer Copilot Reference Architecture
-**Status:** 🔄 In development
-
-**Layers:**
-1. **User Experience Layer** - Multi-channel interfaces
-2. **Orchestration Layer** - Agent coordination and routing
-3. **Intelligence Layer** - LLM and AI services
-4. **Data Layer** - Knowledge sources and grounding
-5. **Integration Layer** - External systems and APIs
-6. **Security Layer** - Identity, access, DLP
-7. **Monitoring Layer** - Analytics, logging, compliance
-
-**Deliverables:**
-- Complete architecture diagram
-- Layer-by-layer implementation guide
-- Technology mapping (Microsoft stack)
-- Scalability considerations
-- Security controls per layer
-
----
-
-### 2. Multi-Agent Orchestration Pattern
-**Status:** 🔄 In development
-
-**Components:**
-- Agent registry and discovery
-- Conversation routing logic
-- Context handoff mechanisms
-- State management
-- Agent collaboration protocols
-
-**Use Cases:**
-- Specialized agents by domain
-- Escalation workflows
-- Agent-to-agent communication
-- Dynamic capability routing
-
----
-
-### 3. Azure AI Foundry Integration Architecture
-**Status:** 🔄 In development
-
-**Covers:**
-- When to use AI Foundry vs Copilot Studio
-- BYOM (Bring Your Own Model) patterns
-- Custom model deployment
+**Will cover:**
+- AI Foundry vs Copilot Studio decision matrix
+- Custom model fine-tuning patterns
+- BYOM (Bring Your Own Model) architecture
+- Prompt flow orchestration
 - Model evaluation and monitoring
-- Cost optimization
-
-**Decision Tree:**
-- Out-of-box Copilot → Custom instructions → Custom models
-- Cost vs control tradeoffs
-- Performance requirements mapping
 
 ---
 
-### 4. Enterprise Security Architecture
-**Status:** 🔄 In development
+### 5. Scalable Deployment Architecture *(in development)*
+**Multi-region, high-availability deployment patterns**
 
-**Components:**
-- Zero Trust architecture for AI
-- DLP policy design patterns
-- Conditional access configuration
-- Network security (private endpoints)
-- Data residency and sovereignty
-
-**References:**
-- Microsoft Copilot Control System (CCS)
-- Purview integration patterns
-- Insider risk management
-- Audit and compliance
-
----
-
-### 5. Scalable Deployment Architecture
-**Status:** 🔄 In development
-
-**Patterns:**
-- Multi-region deployment
+**Will cover:**
+- Multi-region deployment topologies
 - High availability configurations
-- Disaster recovery
-- Performance optimization
-- Cost management at scale
-
-**Deployment Models:**
-- Single tenant, single region
+- Disaster recovery strategies
+- Performance optimization at scale
+- Cost management patterns
 - Multi-tenant, single region
 - Multi-region with data residency
 - Hybrid (cloud + on-premises)
