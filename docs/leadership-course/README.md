@@ -296,6 +296,76 @@ A: Module 4 provides comprehensive guidance. Start with Zero Trust architecture,
 
 ---
 
+## 📋 **Course Completion Tracker**
+
+Track your progress through the AI Leadership Course:
+
+### Core Modules
+- [ ] **Module 0:** [What is Microsoft Copilot?](./00-what-is-copilot.md) (20 mins) - Executive introduction
+- [ ] **Module 1:** [Implementation Framework](./01-implementation-framework.md) (60 mins) - The 4-Pillar approach
+- [ ] **Module 2:** [MOCA & Scenario Engineering](./02-moca-scenario-engineering.md) (90 mins) - 12 universal scenarios + prompts
+- [ ] **Module 3:** [Governance & Success Kit](./03-governance-success-kit.md) (45 mins) - AI Council + Champions Network
+- [ ] **Module 4:** [Security, Testing & Compliance](./04-security-testing-compliance.md) (90 mins) - Security incidents + controls
+
+**Total Time:** 5-6 hours (can be completed across 2-3 days)
+
+### Assessment & Tools
+- [ ] **[AI Readiness Assessment](./tools/ai-readiness-assessment.md)** (20 mins) - Get your maturity score (0-200 points)
+- [ ] **[ROI Calculator](./tools/roi-calculator.md)** (15 mins) - Build your business case
+- [ ] **[PM Toolkit](./tools/pm-toolkit.md)** (30 mins) - 90-day Gantt chart + templates
+- [ ] **[Code Review Checklist](./tools/code-review-checklist.md)** (15 mins) - AI code security
+
+### Deliverables (Complete as You Go)
+- [ ] **AI Council Charter** - Document governance structure
+- [ ] **3 High-Value Scenarios** - Define using 7-Step Framework
+- [ ] **ROI Business Case** - Calculate for your organization
+- [ ] **90-Day Roadmap** - Plan your deployment
+- [ ] **Champions List** - Identify 5-10% of workforce
+
+### Knowledge Checks (Optional)
+After each module, test your understanding:
+
+**Module 1:**
+- [ ] Can you explain the 4 pillars of the Implementation Framework?
+- [ ] Can you name 3 critical decisions Vodafone's AI Council made in Week 1?
+- [ ] Can you describe the Champions Network structure used by Bank of Queensland?
+
+**Module 2:**
+- [ ] Can you write a "Gold Standard" prompt with all 5 components?
+- [ ] Can you list 3 "Priority 1" scenarios for your organization?
+- [ ] Can you calculate expected time savings for one scenario?
+
+**Module 3:**
+- [ ] Can you draft an AI Council meeting agenda?
+- [ ] Can you explain the difference between "essential" and "foundational" tasks in the Success Kit?
+- [ ] Can you describe how to build a Scenario Library?
+
+**Module 4:**
+- [ ] Can you name 3 types of security incidents and their prevention strategies?
+- [ ] Can you configure a basic DLP policy?
+- [ ] Can you explain the 3 pillars of the Copilot Control System?
+
+### Completion Certificate
+
+Once you've completed all modules and deliverables, you've earned:
+
+**🏆 Certificate: AI Leadership Course Graduate**
+
+**What You've Achieved:**
+- ✅ Mastered the 4-Pillar Implementation Framework
+- ✅ Learned 12 copy-paste scenarios with real-world results
+- ✅ Understood security risks and prevention strategies
+- ✅ Built a comprehensive deployment plan
+- ✅ Calculated ROI for your organization
+
+**Next Steps:**
+1. Share your certificate on LinkedIn (use #AILeadership #MicrosoftCopilot)
+2. Join our alumni network (email ram@aicapabilitybuilder.com)
+3. Access ongoing updates (quarterly new content)
+4. Consider Level 2 certification (Advanced Implementation)
+
+---
+
 ## Professional Services
 
 Need expert guidance for your AI transformation?
@@ -325,6 +395,6 @@ This is a living curriculum. If you have feedback or suggestions:
 
 **Ready to transform your organization with AI?**
 
-[Start Module 1](./01-implementation-framework.md) · [Download Templates](../../templates/) · [Book Consultation](mailto:ram@aicapabilitybuilder.com)
+[Start Module 0](./00-what-is-copilot.md) · [Download Tools](./tools/) · [Book Consultation](mailto:ram@aicapabilitybuilder.com)
 
 </div>
