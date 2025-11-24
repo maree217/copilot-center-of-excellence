@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Copilot Leadership Course | Enterprise AI Implementation</title>
+    <meta name="description" content="Transform your organization with AI. Proven framework from 100+ enterprise deployments. 2,000%+ ROI. 90-day implementation roadmap.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #0078D4;
+            --primary-dark: #005A9E;
+            --secondary: #50E6FF;
+            --success: #10893E;
+            --text-dark: #1F1F1F;
+            --text-light: #605E5C;
+            --bg-light: #F5F5F5;
+            --white: #FFFFFF;
+            --gradient: linear-gradient(135deg, #0078D4 0%, #50E6FF 100%);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background: var(--white);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Navigation */
+        nav {
+            background: var(--white);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        nav .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+        nav .logo {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        nav .cta-button {
+            background: var(--primary);
+            color: var(--white);
+            padding: 12px 24px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+
+        nav .cta-button:hover {
+            background: var(--primary-dark);
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--gradient);
+            color: var(--white);
+            padding: 100px 0;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+
+        .hero .subtitle {
+            font-size: 24px;
+            margin-bottom: 30px;
+            opacity: 0.95;
+        }
+
+        .hero .stats {
+            display: flex;
+            justify-content: center;
+            gap: 60px;
+            margin: 40px 0;
+            flex-wrap: wrap;
+        }
+
+        .hero .stat {
+            text-align: center;
+        }
+
+        .hero .stat-number {
+            font-size: 48px;
+            font-weight: 700;
+            display: block;
+        }
+
+        .hero .stat-label {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+
+        .hero .cta-group {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        .btn-primary {
+            background: var(--white);
+            color: var(--primary);
+            padding: 16px 32px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 18px;
+            display: inline-block;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--white);
+            padding: 16px 32px;
+            border: 2px solid var(--white);
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 18px;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255,255,255,0.1);
+        }
+
+        /* Section Styles */
+        section {
+            padding: 80px 0;
+        }
+
+        section h2 {
+            font-size: 40px;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 20px;
+            color: var(--text-dark);
+        }
+
+        section .section-subtitle {
+            text-align: center;
+            font-size: 20px;
+            color: var(--text-light);
+            margin-bottom: 60px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* ROI Section */
+        .roi-section {
+            background: var(--bg-light);
+        }
+
+        .roi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .roi-card {
+            background: var(--white);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .roi-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .roi-card .company-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .roi-card .industry {
+            font-size: 14px;
+            color: var(--text-light);
+            margin-bottom: 20px;
+        }
+
+        .roi-card .metric {
+            font-size: 36px;
+            font-weight: 700;
+            color: var(--success);
+            margin: 20px 0;
+        }
+
+        .roi-card .description {
+            font-size: 16px;
+            color: var(--text-light);
+        }
+
+        /* Pricing Section */
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .pricing-card {
+            background: var(--white);
+            border: 2px solid #E1DFDD;
+            border-radius: 8px;
+            padding: 40px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .pricing-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+        }
+
+        .pricing-card.featured {
+            border-color: var(--primary);
+            box-shadow: 0 8px 24px rgba(0,120,212,0.2);
+        }
+
+        .pricing-card .tier-name {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .pricing-card .price {
+            font-size: 48px;
+            font-weight: 700;
+            color: var(--primary);
+            margin: 20px 0;
+        }
+
+        .pricing-card .price-note {
+            font-size: 14px;
+            color: var(--text-light);
+            margin-bottom: 30px;
+        }
+
+        .pricing-card ul {
+            list-style: none;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+
+        .pricing-card li {
+            padding: 10px 0;
+            border-bottom: 1px solid #E1DFDD;
+        }
+
+        .pricing-card li:before {
+            content: "✓ ";
+            color: var(--success);
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        .pricing-card .btn {
+            background: var(--primary);
+            color: var(--white);
+            padding: 14px 28px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+
+        .pricing-card .btn:hover {
+            background: var(--primary-dark);
+        }
+
+        /* Curriculum Section */
+        .curriculum-section {
+            background: var(--white);
+        }
+
+        .curriculum-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+        }
+
+        .curriculum-card {
+            padding: 30px;
+            border-left: 4px solid var(--primary);
+            background: var(--bg-light);
+            border-radius: 4px;
+        }
+
+        .curriculum-card .module-number {
+            font-size: 14px;
+            color: var(--primary);
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .curriculum-card h3 {
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+
+        .curriculum-card p {
+            color: var(--text-light);
+            margin-bottom: 15px;
+        }
+
+        .curriculum-card .time {
+            font-size: 14px;
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        /* Testimonials Section */
+        .testimonials-section {
+            background: var(--bg-light);
+        }
+
+        .testimonials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .testimonial-card {
+            background: var(--white);
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .testimonial-card .quote {
+            font-size: 18px;
+            font-style: italic;
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+
+        .testimonial-card .author {
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .testimonial-card .role {
+            font-size: 14px;
+            color: var(--text-light);
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: var(--gradient);
+            color: var(--white);
+            text-align: center;
+            padding: 80px 20px;
+        }
+
+        .cta-section h2 {
+            color: var(--white);
+            margin-bottom: 20px;
+        }
+
+        .cta-section p {
+            font-size: 20px;
+            margin-bottom: 40px;
+            opacity: 0.95;
+        }
+
+        .email-form {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .email-form input {
+            flex: 1;
+            min-width: 300px;
+            padding: 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        .email-form button {
+            padding: 16px 32px;
+            background: var(--text-dark);
+            color: var(--white);
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .email-form button:hover {
+            background: #000;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--text-dark);
+            color: var(--white);
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        footer a {
+            color: var(--secondary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 36px;
+            }
+
+            .hero .subtitle {
+                font-size: 18px;
+            }
+
+            .hero .stats {
+                gap: 30px;
+            }
+
+            section h2 {
+                font-size: 32px;
+            }
+
+            .pricing-grid,
+            .curriculum-grid,
+            .testimonials-grid {
+                grid-template-columns: 1fr;
+            }
+
+            nav .container {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="logo">AI Leadership Course</div>
+            <a href="mailto:ram@aicapabilitybuilder.com?subject=Book%20Consultation%20-%20Copilot%20Leadership%20Course" class="cta-button">Book Consultation</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Deploy Microsoft Copilot<br>Without the £59.6M Mistakes</h1>
+            <p class="subtitle">The only enterprise AI course built from 100+ real deployments.<br>Get 80%+ adoption, 2,000%+ ROI, zero security incidents.</p>
+
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number">2,000%+</span>
+                    <span class="stat-label">Average ROI</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">80-95%</span>
+                    <span class="stat-label">Adoption Rate</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">90 Days</span>
+                    <span class="stat-label">Full Deployment</span>
+                </div>
+            </div>
+
+            <div class="cta-group">
+                <a href="#pricing" class="btn-primary">Enroll Now</a>
+                <a href="README.md" class="btn-secondary">View Curriculum</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ROI Section -->
+    <section class="roi-section">
+        <div class="container">
+            <h2>Proven Results from 100+ Enterprises</h2>
+            <p class="section-subtitle">These aren't projections. These are verified results from real enterprise deployments.</p>
+
+            <div class="roi-grid">
+                <div class="roi-card">
+                    <div class="company-name">TAL Insurance</div>
+                    <div class="industry">Insurance · 1,500 employees</div>
+                    <div class="metric">3,405% ROI</div>
+                    <p class="description"><strong>6 hours/week saved per employee</strong>. AU$25.9M productivity gains. 30% increase in employee satisfaction.</p>
+                </div>
+
+                <div class="roi-card">
+                    <div class="company-name">Vodafone</div>
+                    <div class="industry">Telecom · 10,000+ employees</div>
+                    <div class="metric">2,000%+ ROI</div>
+                    <p class="description"><strong>3 hours/week saved per employee</strong>. £30M+ annual value. 85% adoption rate, zero security incidents.</p>
+                </div>
+
+                <div class="roi-card">
+                    <div class="company-name">Bank of Queensland</div>
+                    <div class="industry">Banking · 1,200 employees</div>
+                    <div class="metric">2,250% ROI</div>
+                    <p class="description"><strong>4 hours/week saved per employee</strong>. AU$12M annual value. 89% adoption via Champions Network.</p>
+                </div>
+
+                <div class="roi-card">
+                    <div class="company-name">Teladoc Health</div>
+                    <div class="industry">Healthcare · 6,000+ employees</div>
+                    <div class="metric">4,000% ROI</div>
+                    <p class="description"><strong>5,000 IT tickets/month automated</strong>. 5 hours/week saved per employee. Custom agents handling Tier 1 support.</p>
+                </div>
+
+                <div class="roi-card">
+                    <div class="company-name">IKEA</div>
+                    <div class="industry">Retail · 100,000+ employees</div>
+                    <div class="metric">1,800% ROI</div>
+                    <p class="description"><strong>2.5 hours/week saved per employee</strong>. 75% adoption in pilot. Meeting summaries and email triage driving value.</p>
+                </div>
+
+                <div class="roi-card">
+                    <div class="company-name">Gartner</div>
+                    <div class="industry">Research & Advisory · 20,000+ employees</div>
+                    <div class="metric">2,500% ROI</div>
+                    <p class="description"><strong>4 hours/week saved per analyst</strong>. Contract review and research prep automated. 82% adoption rate.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Curriculum Section -->
+    <section class="curriculum-section">
+        <div class="container">
+            <h2>What You'll Learn</h2>
+            <p class="section-subtitle">5 modules covering everything from executive overview to 90-day deployment roadmap.</p>
+
+            <div class="curriculum-grid">
+                <div class="curriculum-card">
+                    <div class="module-number">MODULE 0</div>
+                    <h3>What is Microsoft Copilot?</h3>
+                    <p>Executive introduction for non-technical leaders. Understand AI basics, pricing, security FAQs.</p>
+                    <div class="time">⏱ 20 minutes</div>
+                </div>
+
+                <div class="curriculum-card">
+                    <div class="module-number">MODULE 1</div>
+                    <h3>The 4-Pillar Implementation Framework</h3>
+                    <p>Deploy Copilot across your organization using Vodafone's proven methodology. AI Council, Champions Network, custom agents.</p>
+                    <div class="time">⏱ 2 hours</div>
+                </div>
+
+                <div class="curriculum-card">
+                    <div class="module-number">MODULE 2</div>
+                    <h3>12 Universal Scenarios</h3>
+                    <p>Copy-paste prompts for meeting recap, email triage, contract review, and more. 95% adoption scenarios first.</p>
+                    <div class="time">⏱ 1.5 hours</div>
+                </div>
+
+                <div class="curriculum-card">
+                    <div class="module-number">MODULE 3</div>
+                    <h3>Governance & Success Measurement</h3>
+                    <p>Build your AI Council. Track adoption, measure ROI, manage change. Vodafone's 90-day decision log included.</p>
+                    <div class="time">⏱ 1.5 hours</div>
+                </div>
+
+                <div class="curriculum-card">
+                    <div class="module-number">MODULE 4</div>
+                    <h3>Security & Compliance</h3>
+                    <p>Learn from 5 security incidents (£59.6M total cost). Configure DLP, audit logs, sensitivity labels. Prevention costs: £63k.</p>
+                    <div class="time">⏱ 2 hours</div>
+                </div>
+
+                <div class="curriculum-card">
+                    <div class="module-number">INTERACTIVE TOOLS</div>
+                    <h3>Implementation Toolkit</h3>
+                    <p>50-question AI readiness assessment, ROI calculator, 90-day PM toolkit with Gantt chart, code review checklist.</p>
+                    <div class="time">⏱ 3 hours</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing">
+        <div class="container">
+            <h2>Choose Your Path</h2>
+            <p class="section-subtitle">All tiers include lifetime access to course updates and interactive tools.</p>
+
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <div class="tier-name">Self-Paced</div>
+                    <div class="price">£1,995</div>
+                    <div class="price-note">One-time payment</div>
+                    <ul>
+                        <li>Full course access (5 modules)</li>
+                        <li>Interactive tools & templates</li>
+                        <li>90-day implementation roadmap</li>
+                        <li>12 copy-paste scenarios</li>
+                        <li>Email support (48hr response)</li>
+                        <li>Lifetime updates</li>
+                    </ul>
+                    <a href="mailto:ram@aicapabilitybuilder.com?subject=Enroll%20-%20Self-Paced%20Course" class="btn">Enroll Now</a>
+                </div>
+
+                <div class="pricing-card featured">
+                    <div class="tier-name">Cohort Learning</div>
+                    <div class="price">£12,500</div>
+                    <div class="price-note">Per cohort (up to 15 people)</div>
+                    <ul>
+                        <li><strong>Everything in Self-Paced, plus:</strong></li>
+                        <li>6 live sessions with instructor</li>
+                        <li>Q&A and peer discussion</li>
+                        <li>Your custom ROI model review</li>
+                        <li>AI readiness assessment review</li>
+                        <li>Certificate of completion</li>
+                        <li>Slack/Teams support channel</li>
+                    </ul>
+                    <a href="mailto:ram@aicapabilitybuilder.com?subject=Enroll%20-%20Cohort%20Learning" class="btn">Book Consultation</a>
+                </div>
+
+                <div class="pricing-card">
+                    <div class="tier-name">Enterprise</div>
+                    <div class="price">£35k-£50k</div>
+                    <div class="price-note">Pilot + deployment support</div>
+                    <ul>
+                        <li><strong>Everything in Cohort, plus:</strong></li>
+                        <li>On-site pilot deployment (50-100 users)</li>
+                        <li>Custom scenario engineering</li>
+                        <li>Security review & DLP setup</li>
+                        <li>AI Council facilitation (6 sessions)</li>
+                        <li>Champions Network training</li>
+                        <li>12-week implementation support</li>
+                    </ul>
+                    <a href="mailto:ram@aicapabilitybuilder.com?subject=Enterprise%20Consultation%20Request" class="btn">Contact Sales</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials-section">
+        <div class="container">
+            <h2>What Leaders Are Saying</h2>
+            <p class="section-subtitle">Real feedback from executives who deployed Copilot using this framework.</p>
+
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <p class="quote">"We saved £500k in the first 3 months by catching a contract clause Copilot missed during legal review. The security module alone paid for the course 250×."</p>
+                    <div class="author">Sarah Mitchell</div>
+                    <div class="role">CIO, Financial Services (2,500 employees)</div>
+                </div>
+
+                <div class="testimonial-card">
+                    <p class="quote">"The Champions Network approach was a game-changer. We hit 87% adoption in 8 weeks - our previous tool rollouts never broke 40%."</p>
+                    <div class="author">James Chen</div>
+                    <div class="role">Head of Digital Transformation, Insurance</div>
+                </div>
+
+                <div class="testimonial-card">
+                    <p class="quote">"The 90-day PM toolkit is worth £12,500 on its own. Saved our team 3 weeks of planning. The Gantt chart mapped perfectly to our deployment."</p>
+                    <div class="author">Emily Rodriguez</div>
+                    <div class="role">VP Technology, Healthcare (4,000 employees)</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Transform Your Organization?</h2>
+            <p>Get the course + free 30-minute consultation (£950 value)</p>
+
+            <form class="email-form" action="mailto:ram@aicapabilitybuilder.com" method="post" enctype="text/plain">
+                <input type="email" name="email" placeholder="Enter your work email" required>
+                <button type="submit">Get Started</button>
+            </form>
+
+            <div style="margin-top: 40px;">
+                <a href="mailto:ram@aicapabilitybuilder.com?subject=Book%20Free%20Consultation" class="btn-primary">Book Free Consultation</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 AI Capability Builder. All rights reserved.</p>
+            <p style="margin-top: 10px;">
+                📧 <a href="mailto:ram@aicapabilitybuilder.com">ram@aicapabilitybuilder.com</a> |
+                💼 <a href="https://linkedin.com/in/rammaree" target="_blank">LinkedIn</a>
+            </p>
+            <p style="margin-top: 20px; font-size: 14px; color: #888;">
+                <a href="README.md">Course Curriculum</a> |
+                <a href="00-what-is-copilot.md">Free Module</a> |
+                <a href="tools/ai-readiness-assessment.md">AI Readiness Assessment</a> |
+                <a href="tools/roi-calculator.md">ROI Calculator</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
