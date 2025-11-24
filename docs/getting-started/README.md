@@ -22,45 +22,38 @@ Welcome! This guide helps you navigate the repository based on your role and goa
 
 ---
 
-### For Architects
+### [For Architects](./for-architects.md)
 **Perfect for:** Solution Architects, Enterprise Architects, Technical Leads
 
 **What you'll learn:**
-- Reference architecture patterns
-- Technology stack decisions
+- Architecture decision frameworks
+- 7-layer reference architecture
+- Technology stack decisions (Copilot Studio vs Semantic Kernel vs Azure AI)
 - Security architecture design
-- Scalability patterns
-- Integration strategies
+- Scalability and performance patterns
+- Integration strategies and patterns
 
 **Time investment:** 2-3 hours for overview, 8-12 hours for deep dive
 
-**Status:** 🚧 Coming soon
-
-**For now, start with:**
-- [Technical Implementation Modules](../technical-implementation/)
-- [Reference Architectures](../reference-architectures/)
-- [Financial Services Case Study](../case-studies/financial-services/)
+[Start Architect Guide →](./for-architects.md)
 
 ---
 
-### For Developers
+### [For Developers](./for-developers.md)
 **Perfect for:** Software Engineers, DevOps Engineers, Full-stack Developers
 
 **What you'll learn:**
-- How to build Copilot agents
-- Code examples and patterns
-- Testing frameworks
+- How to build Copilot agents (hands-on)
+- Development environment setup
+- Code patterns and best practices
+- Prompt engineering for agents
+- Testing frameworks and automation
 - CI/CD integration
-- Troubleshooting common issues
+- Debugging and troubleshooting
 
-**Time investment:** 4-6 hours for basics, 16-20 hours for mastery
+**Time investment:** 4 hours for quick start, 30 days for mastery
 
-**Status:** 🚧 Coming soon
-
-**For now, start with:**
-- [Technical Modules 3-8](../technical-implementation/modules/)
-- [Code Examples](../../examples/)
-- [Testing Framework](../testing-quality/)
+[Start Developer Guide →](./for-developers.md)
 
 ---
 
@@ -262,7 +255,7 @@ copilot-center-of-excellence/
 **Ready to get started?**
 
 **Executives**: [Start here →](./for-executives.md)
-**Architects**: [Start here →](../technical-implementation/)
-**Developers**: [Start here →](../technical-implementation/modules/00-architectural-fundamentals.md)
+**Architects**: [Start here →](./for-architects.md)
+**Developers**: [Start here →](./for-developers.md)
 
 [← Back to Home](../../README.md) | [Documentation Hub →](../README.md)
