@@ -1,259 +1,158 @@
-# Professional Services
+# Working Together
 
-Expert guidance and hands-on support for your Microsoft Copilot implementation.
-
----
-
-## 🎯 Service Offerings
-
-### 1. Strategy Sprint (1 Day)
-**Perfect for:** Getting started, building executive buy-in
-
-**What you get:**
-- Facilitated workshop with your leadership team
-- AI readiness assessment
-- Prioritized use case identification
-- 90-day implementation roadmap
-- Executive presentation with business case
-
-**Investment:** $15,000
-**Deliverables:** Roadmap document, use case portfolio, presentation deck
+Expert delivery for enterprise AI and Microsoft Copilot implementations.
 
 ---
 
-### 2. Architecture Design Session (2-3 Days)
-**Perfect for:** Technical teams planning implementation
+## What I Do
 
-**What you get:**
-- Custom reference architecture for your use cases
-- Technology stack recommendations
-- Integration design patterns
-- Security architecture review
-- Scalability and performance planning
+I help enterprises deploy AI that gets adopted and delivers measurable outcomes. This typically means:
 
-**Investment:** $25,000
-**Deliverables:** Architecture diagrams, design specifications, implementation guide
+- **Leading AI programs** as an embedded expert or fractional AI lead
+- **Designing and building** Copilot solutions, custom agents, and integrations
+- **Navigating complexity** - security, compliance, organizational politics, change management
+- **Facilitating decisions** - getting executives aligned and scenarios prioritized
+- **Ensuring adoption** - because technology that doesn't get used delivers zero ROI
 
 ---
 
-### 3. Security Assessment (3-5 Days)
-**Perfect for:** Regulated industries, risk-conscious organizations
+## Engagement Models
 
-**What you get:**
-- Gap analysis against security frameworks
-- DLP policy design and configuration
-- Zero Trust architecture review
-- Compliance mapping (GDPR, HIPAA, SOC2, etc.)
-- Remediation roadmap with priorities
+I'm flexible on how we work together. Here are the common patterns:
 
-**Investment:** $30,000
-**Deliverables:** Security assessment report, policy templates, remediation plan
+### Embedded / Contract Role
+Join your team as a senior AI specialist, architect, or delivery lead. Day rate or monthly, typically through your preferred agency or directly.
 
----
+**What this looks like:**
+- Part of your team (2-5 days/week)
+- Attend your meetings, work with your people
+- Accountable for delivery outcomes
+- Duration: typically 3-12 months
 
-### 4. Executive Workshop (Half Day)
-**Perfect for:** Leadership alignment and change management
-
-**What you get:**
-- Custom training for C-suite and VPs
-- AI transformation frameworks
-- Governance structure design
-- ROI modeling session
-- Change management strategy
-
-**Investment:** $10,000
-**Deliverables:** Training materials, governance charter, change plan
+**Best for:** Organisations building AI capability who need experienced hands
 
 ---
 
-### 5. Technical Training (1-3 Days)
-**Perfect for:** Development teams, architects, power users
+### Project-Based Delivery
+Fixed scope, defined deliverables, agreed timeline.
 
-**What you get:**
-- Hands-on Copilot Studio training
-- Custom agent development workshop
-- Integration patterns and best practices
-- Testing and quality assurance
-- Troubleshooting and debugging
+**Examples:**
+- Architecture design and documentation
+- Security assessment and remediation
+- Pilot deployment for initial use cases
+- Production rollout across waves
+- Custom agent development
 
-**Investment:** $20,000 (1 day) to $50,000 (3 days)
-**Deliverables:** Training materials, lab exercises, reference code
-
----
-
-### 6. Implementation Support (Retainer)
-**Perfect for:** Ongoing guidance throughout deployment
-
-**What you get:**
-- Dedicated architect support
-- Weekly office hours
-- Code and configuration reviews
-- Troubleshooting assistance
-- Best practices guidance
-
-**Investment:** $25,000/month (20 hours) or $50,000/month (40 hours)
-**Commitment:** Minimum 3 months
+**Best for:** Specific outcomes with clear boundaries
 
 ---
 
-### 7. End-to-End Implementation (Project-Based)
-**Perfect for:** Organizations wanting full delivery support
+### Workshops & Facilitation
+Facilitated sessions to drive alignment and decisions.
 
-**What you get:**
-- Complete project management
-- Architecture design and development
-- Testing and quality assurance
-- Deployment and go-live support
-- Post-launch optimization (30 days)
+**Examples:**
+- AI strategy alignment (leadership team)
+- Scenario prioritisation sprint
+- AI Council/governance launch
+- Architecture decision session
+- Readiness assessment
 
-**Investment:** Custom (typically $150K - $500K depending on scope)
-**Duration:** 3-6 months
-**Deliverables:** Full production deployment, documentation, training
+**Best for:** When you need humans in a room making real decisions
 
 ---
 
-## 🏆 Why Work With Us?
+### Advisory Retainer
+Ongoing access for guidance, reviews, and problem-solving.
 
-### Deep Expertise
+**What this looks like:**
+- Regular check-ins (weekly/fortnightly)
+- Architecture and code reviews
+- Escalation support
+- Access to my network when needed
+
+**Best for:** Organisations with internal teams who need expert backup
+
+---
+
+## How Engagements Typically Start
+
+**Most of my work comes through specialist recruiters** who reach out on behalf of clients looking for AI/Copilot expertise. If you're working with an agency, feel free to share this repository as evidence of capability.
+
+**For direct enquiries**, I'm happy to have a conversation about your needs and whether I can help. No obligation, no sales pitch.
+
+---
+
+## What I Bring
+
+### Experience
 - 100+ enterprise AI implementations
-- Microsoft AI specialist certification
-- Real-world battle scars and lessons learned
-- Proven methodologies from successful deployments
+- Financial services, healthcare, manufacturing, government
+- Regulated industries with real compliance requirements
+- Programs from pilot through full-scale deployment
 
-### Practical Approach
-- No ivory tower consulting
-- Hands-on delivery
-- Knowledge transfer built-in
-- Production-ready solutions
+### Technical Depth
+- Microsoft 365 Copilot, Copilot Studio, Azure AI
+- Semantic Kernel, Power Platform, Teams AI Library
+- Security architecture, DLP, Zero Trust
+- Custom development and integration
 
-### Industry Experience
-- Financial services (regulatory compliance)
-- Healthcare (HIPAA requirements)
-- Manufacturing (industrial use cases)
-- Professional services (knowledge work optimization)
-
-### Thought Leadership
-- Published frameworks and methodologies
-- Active Microsoft community participation
-- Continuous learning and adaptation
-- Open-source contributions
+### What AI Tools Cannot Do
+- Be accountable when things go wrong
+- Navigate organisational politics
+- Make judgment calls in ambiguous situations
+- Build trust with your executives
+- Show up when it matters
 
 ---
 
-## 📋 Engagement Process
+## Industries & Compliance
 
-### Step 1: Discovery Call (Free - 30 min)
-- Understand your goals and challenges
-- Assess fit and approach
-- Recommend appropriate services
-- Provide ballpark investment range
+Particular experience in regulated environments:
 
-[**Schedule Discovery Call**](mailto:ram@aicapabilitybuilder.com?subject=Discovery%20Call%20Request)
-
-### Step 2: Proposal & SOW
-- Detailed scope of work
-- Timeline and deliverables
-- Investment breakdown
-- Success criteria
-
-### Step 3: Kickoff & Execution
-- Project kickoff meeting
-- Regular check-ins and status updates
-- Collaborative delivery approach
-- Continuous feedback
-
-### Step 4: Closeout & Handoff
-- Final deliverables review
-- Knowledge transfer session
-- Post-engagement support (30 days included)
-- Ongoing relationship options
+| Industry | Compliance Experience |
+|----------|----------------------|
+| Financial Services | SEC, FINRA, FCA, MiFID II |
+| Healthcare | HIPAA, NHS IG Toolkit |
+| Government | IL2/IL3, FedRAMP, Cyber Essentials Plus |
+| General | GDPR, SOC2, ISO 27001 |
 
 ---
 
-## 💡 Common Engagement Patterns
+## Typical Outcomes
 
-### "Getting Started" Package
-**Strategy Sprint + Architecture Design**
-- 3-4 days of consulting
-- $35,000 investment
-- Complete foundation for implementation
+**Financial Services Client**
+- 5,000 users deployed
+- $12M annual ROI documented
+- 73% adoption rate
+- Zero security incidents
+- Passed regulatory audit
 
-### "Full Launch" Package
-**Strategy + Architecture + Implementation Support (3 months)**
-- Comprehensive guidance from start to production
-- $100,000 investment
-- Hands-on support through go-live
-
-### "Enterprise Transformation" Package
-**All services + End-to-End Implementation**
-- Complete program delivery
-- Custom pricing based on scope
-- Multi-year transformation support
+[Full case study →](./case-studies/financial-services/)
 
 ---
 
-## 🌟 Client Success Stories
+## Get in Touch
 
-### Global Investment Bank
-**Challenge:** Deploy Copilot to 5,000 users with regulatory compliance
-**Services:** Strategy Sprint, Security Assessment, Implementation Support
-**Result:** $12M annual ROI, 73% adoption, zero security incidents
-[Read full case study](./case-studies/financial-services/)
+**Email:** [ram@aicapabilitybuilder.com](mailto:ram@aicapabilitybuilder.com)
 
-### Healthcare System (Coming Soon)
-**Challenge:** HIPAA-compliant Copilot for clinical workflows
-**Services:** Security Assessment, Architecture Design, Technical Training
-**Result:** Details coming soon
+**LinkedIn:** [linkedin.com/in/rammaree](https://linkedin.com/in/rammaree)
+
+**For recruiters:** Feel free to reach out. I'm typically available for contract roles and happy to discuss requirements.
+
+**For direct clients:** Let's have a conversation about what you're trying to achieve.
 
 ---
 
-## 🤝 Custom Engagements
+## Location & Availability
 
-Don't see what you need? We design custom engagements for:
-- Multi-year transformation programs
-- Scaled delivery across geographies
-- Industry-specific solutions
-- Complex integration projects
-- Organizational change programs
+**Based:** UK
 
-**Let's discuss:** ram@aicapabilitybuilder.com
+**Working style:** Hybrid - on-site where it adds value, remote for focused delivery
 
----
+**IR35:** Outside IR35 engagements preferred
 
-## 📞 Contact
-
-**Email:** ram@aicapabilitybuilder.com
-
-**Website:** [AI Capability Builder](https://aicapabilitybuilder.com)
-
-**LinkedIn:** [Ram Maree](https://linkedin.com/in/rammaree)
-
-**Response Time:** Within 24 hours for inquiries
+**Notice:** Typically 2-4 weeks depending on current commitments
 
 ---
 
-## 💼 Terms & Conditions
-
-### Payment Terms
-- 50% upon SOW signature
-- 50% upon completion
-- Retainers billed monthly in advance
-
-### Cancellation
-- 30-day notice required
-- Unused retainer hours non-refundable
-- Project work cancellation: pro-rated billing
-
-### Travel
-- Domestic travel included in pricing
-- International travel: additional cost
-- Most work can be done remotely
-
-### Confidentiality
-- Standard NDA provided
-- Can work under your NDA
-- Strict confidentiality maintained
-
----
-
-[← Back to Documentation](./README.md) | [View Case Studies](./case-studies/)
+[← Back to Home](../README.md) | [View Case Studies](./case-studies/) | [Technical Depth](./technical-implementation/)
