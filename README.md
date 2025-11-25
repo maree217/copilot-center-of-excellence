@@ -105,16 +105,6 @@ Facilitated sessions to align leadership, prioritize scenarios, establish govern
 **Advisory & Support**
 Ongoing guidance, architecture reviews, and access to my network when you need expert input.
 
-### How I Typically Work
-
-Most engagements come through specialist recruiters and follow traditional contracting models. I'm flexible on structure - day rate, fixed price, or outcome-based - depending on what works for your organization.
-
-**What I bring that AI tools cannot:**
-- Accountability for outcomes
-- Judgment in ambiguous situations
-- Navigation of organizational politics
-- Relationships and network access
-- Physical presence when it matters
 
 [Get in touch →](mailto:ram@aicapabilitybuilder.com)
 
